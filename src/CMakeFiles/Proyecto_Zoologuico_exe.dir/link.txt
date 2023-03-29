@@ -1,0 +1,1 @@
+/sbin/c++ -g CMakeFiles/Proyecto_Zoologuico_exe.dir/main.cpp.o -o Proyecto_Zoologuico_exe 

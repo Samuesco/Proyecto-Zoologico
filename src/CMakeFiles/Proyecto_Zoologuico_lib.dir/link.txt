@@ -1,0 +1,2 @@
+/sbin/ar qc libProyecto_Zoologuico_lib.a CMakeFiles/Proyecto_Zoologuico_lib.dir/main.cpp.o
+/sbin/ranlib libProyecto_Zoologuico_lib.a
